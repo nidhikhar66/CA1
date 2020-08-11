@@ -37,6 +37,10 @@ body
 	z-index: 0;
 
 }
+.navbar-brand
+{
+	font-size: 150%;
+}
 .navbar-dark
 {
 	background-color: #512DA8;
